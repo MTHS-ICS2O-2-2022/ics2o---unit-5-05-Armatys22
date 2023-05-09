@@ -1,4 +1,4 @@
-/* Created by: Jakub Malhotra
+/* Created by: Dominik Armatys
 * Created on: March 2023
 * This file contains the CSS for index.html
 */
@@ -15,17 +15,17 @@
 }
 
 .mdl-textfield__error {
-  color: coral;
+  color: rgb(0 255 208);
 }
 
 .page-content {
-  color: lightslategray;
+  color: rgb(2 40 79);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 .page-content-answer {
-  color: lightslategray;
+  color: rgb(189 156 254);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
@@ -37,7 +37,7 @@
 }
 
 body {
-  background-color: lightblue;
+  background-color: rgb(183 223 249);
 }
 
 img {
